@@ -1,0 +1,4 @@
+interface:
+  display_name: "音乐梳子读谱与序列"
+  short_description: "寻找并读取旋律谱，简化转音、保留停顿并生成音乐梳子音符序列"
+  default_prompt: "使用 $music-comb-score 为指定歌曲片段找谱、读谱并生成可用于音乐梳子的简化音符序列。"

@@ -1,0 +1,17 @@
+{
+  "source": {"type": "synthetic example"},
+  "original_key": "F",
+  "target_key": "C",
+  "simplifications": [],
+  "events": [
+    {"pitch": "F4"},
+    {"pitch": "A4"},
+    {"pitch": null},
+    {"pitch": "F4"},
+    {"pitch": "Bb4"},
+    {"pitch": "A4"},
+    {"pitch": "Bb4"},
+    {"pitch": "C5"},
+    {"pitch": "A4"}
+  ]
+}

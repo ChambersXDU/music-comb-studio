@@ -1,0 +1,60 @@
+{
+  "reference_file": "notext.stl",
+  "sha256": "4bb242e049517e7ee1352db2dd79208e1b48b7e881ea51def3a503fd6b9d9762",
+  "source_url": "https://makerworld.com/zh/makerlab/parametricModelMaker?designId=1492688",
+  "geometry_source": "User supplied no-text no-keychain STL; reconstructed editable tooth geometry with measured roots",
+  "calibration_notes": [
+    "F",
+    "Gb",
+    "G",
+    "Ab",
+    "A",
+    "Bb",
+    "B",
+    "C1",
+    "Db1",
+    "D1",
+    "Eb1",
+    "E1",
+    "F1",
+    "Gb1",
+    "G1",
+    "Ab1",
+    "A1",
+    "Bb1",
+    "B1",
+    "C2"
+  ],
+  "root_parameters_mm": [
+    6.2,
+    7,
+    8.1,
+    8.75,
+    9.45,
+    10.25,
+    10.8,
+    11.5,
+    12.15,
+    12.8,
+    13.4,
+    13.95,
+    14.55,
+    15.1,
+    15.6,
+    16,
+    16.65,
+    17,
+    17.6,
+    18
+  ],
+  "reference_difference": {
+    "front": {
+      "reference_volume_mm3": 7952.076569833798,
+      "symmetric_difference_mm3": 1.4131600598586345
+    },
+    "back": {
+      "reference_volume_mm3": 7596.066013235443,
+      "symmetric_difference_mm3": 1.40229773576518
+    }
+  }
+}

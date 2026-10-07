@@ -1,0 +1,5 @@
+manifold3d==3.5.4
+numpy==2.0.2
+pillow==11.3.0
+shapely==2.0.7
+svgelements==1.9.6

@@ -1,0 +1,6 @@
+{
+  "notes": "C1 C1 G1 G1 A1 A1 G1 · F1 F1 E1 E1 D1 D1 C1",
+  "offsets": [],
+  "extension": 0,
+  "layers": [{"kind": "text", "text": "LILT", "target": "back", "x": 0, "y": 40, "width": 18, "rotation": 0, "depth": 0.4, "mode": "engrave"}]
+}
